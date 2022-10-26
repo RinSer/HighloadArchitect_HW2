@@ -1,0 +1,1 @@
+`hey -n 10 -c 1 -o csv http://localhost:5000/profiles | go run main.go -out hw2_idx_1`
